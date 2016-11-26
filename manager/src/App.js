@@ -5,6 +5,7 @@ import { Provider } from 'react-redux';
 import firebase from 'firebase';    
 import reducers from './reducers';
 
+// lol
 class App extends Component {
   componentWillMount() {
     const config = {
